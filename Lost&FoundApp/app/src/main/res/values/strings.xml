@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lost &amp; Found App</string>
+    <string name="sample_item_name">Cup</string>
+    <string name="sample_item_owner_phone">+1 7265659</string>
+    <string name="sample_item_description">A cup that writes my name on it when hot liquid is poured in</string>
+    <string name="sample_item_date">13/04/2025</string>
+    <string name="sample_location">71 Tideview Dr</string>
+    <string name="found_apple_airpods">Found Apple AirPods</string>
+    <string name="_2_days_ago">2 days ago</string>
+    <string name="at_burwood_campus">At Burwood campus</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="item_name">Item name</string>
+    <string name="name">Name:</string>
+    <string name="post_type">Post type:</string>
+    <string name="save">SAVE</string>
+    <string name="where_lost">Where item was lost/found</string>
+    <string name="location">Location:</string>
+    <string name="date_lost_found">Date lost/found (DD/MM/YYYY)</string>
+    <string name="date">Date:</string>
+    <string name="item_description">Item description</string>
+    <string name="description">Description:</string>
+    <string name="contact_phone_number">Contact phone number</string>
+    <string name="phone">Phone:</string>
+    <string name="create_a_new_advert">CREATE A NEW ADVERT</string>
+    <string name="show_all_items"><![CDATA[SHOW ALL LOST & FOUND ITEMS]]></string>
+</resources>

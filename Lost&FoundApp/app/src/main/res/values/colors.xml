@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4776E6</color>
+    <color name="colorPrimaryDark">#3A5FBB</color>
+    <color name="colorAccent">#8E54E9</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#4776E6</color>
+    <color name="gradient_end">#8E54E9</color>
+    <color name="gradient_secondary_start">#11998e</color>
+    <color name="gradient_secondary_end">#38ef7d</color>
+    <color name="gradient_remove_start">#FF416C</color>
+    <color name="gradient_remove_end">#FF4B2B</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="header_background">#EAECEF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_field_color">#FF02CB5E</color>
+
+    <!-- Item Colors -->
+    <color name="lost_item_start">#FFEBEE</color>
+    <color name="lost_item_end">#FFCDD2</color>
+    <color name="found_item_start">#E0F7FA</color>
+    <color name="found_item_end">#B2EBF2</color>
+</resources>
