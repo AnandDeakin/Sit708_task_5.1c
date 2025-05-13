@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iTube Media Player</string>
+    <string name="sample_url">https://www.youtube.com/watch?v=GlLb3x4qydk</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">John Kennedy</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="login">Login</string>
+</resources>
